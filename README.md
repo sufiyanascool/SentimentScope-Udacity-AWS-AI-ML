@@ -9,7 +9,7 @@
 
 This project is part of the **Udacity AI & ML Nanodegree — Future AWS AI Programmer** program. The goal is to build a **transformer-based sentiment analysis model from scratch** using PyTorch to classify IMDB movie reviews as **positive** or **negative**.
 
-You play the role of a Machine Learning Engineer at **Cinescope**, a growing entertainment company looking to enhance its recommendation system by understanding user sentiment from movie reviews.
+I am  playing the role of a Machine Learning Engineer at **Cinescope**, a growing entertainment company looking to enhance its recommendation system by understanding user sentiment from movie reviews.
 
 ## 🎯 Learning Objectives
 
